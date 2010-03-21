@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/45/trunk/goasap/src_go/org/goasap/interfaces
+END
+IPlayable.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/goasap/src_go/org/goasap/interfaces/IPlayable.as
+END
+ILiveManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/41/trunk/goasap/src_go/org/goasap/interfaces/ILiveManager.as
+END
+IManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/41/trunk/goasap/src_go/org/goasap/interfaces/IManager.as
+END
+IManageable.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/goasap/src_go/org/goasap/interfaces/IManageable.as
+END
+IUpdatable.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/goasap/src_go/org/goasap/interfaces/IUpdatable.as
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/33/trunk/goasap/src_go/org/goasap/errors
+END
+DuplicateManagerError.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/goasap/src_go/org/goasap/errors/DuplicateManagerError.as
+END
+InstanceNotAllowedError.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/goasap/src_go/org/goasap/errors/InstanceNotAllowedError.as
+END
+EasingFormatError.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/33/trunk/goasap/src_go/org/goasap/errors/EasingFormatError.as
+END

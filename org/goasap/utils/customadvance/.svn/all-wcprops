@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/trunk/goasap/src_go/org/goasap/utils/customadvance
+END
+OnPlayableComplete.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/45/trunk/goasap/src_go/org/goasap/utils/customadvance/OnPlayableComplete.as
+END
+OnConditionTrue.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/45/trunk/goasap/src_go/org/goasap/utils/customadvance/OnConditionTrue.as
+END
+OnEventComplete.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/45/trunk/goasap/src_go/org/goasap/utils/customadvance/OnEventComplete.as
+END
+SequenceAdvance.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/25/trunk/goasap/src_go/org/goasap/utils/customadvance/SequenceAdvance.as
+END
+OnDurationComplete.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/45/trunk/goasap/src_go/org/goasap/utils/customadvance/OnDurationComplete.as
+END

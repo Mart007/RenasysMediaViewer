@@ -1,0 +1,6 @@
+Use with Go version 0.4.8 or higher.
+
+To run a test, make a new fla, drag the 
+Button component from the components panel
+so it's in the library, then set the fla's 
+Document Class to one of the test classes.
